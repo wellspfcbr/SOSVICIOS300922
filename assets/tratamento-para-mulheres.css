@@ -16,7 +16,11 @@
 }
 
 .imagem{
+    width: 85%;
     display: flex;
-    margin-left: 100px;
-    margin-right: 100px;
-}
+    height:550px;
+    margin-left:220px;}
+
+.texto-trat-mulheres{
+    justify-content: center;
+    text-align: center;}
